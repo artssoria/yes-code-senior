@@ -7,7 +7,7 @@ def lista_de_tareas():
         1. Agregar tarea
         2. Ver tareas
         3. Eliminar tarea
-        4. Modificar tare@
+        4. Modificar tarea
         5. Salir
         """)
 
