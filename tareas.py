@@ -8,7 +8,7 @@ def lista_de_tareas():
         2. Ver tareas
         3. Eliminar tarea
         4. Modificar tarea
-        5. Salir
+        5. Salir 
         """)
 
     while True:
